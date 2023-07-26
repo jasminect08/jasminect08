@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jasminect08
+- 👋 Hi, I’m @jasmine
 - 👀 I’m interested in ... K-Dramas, hiking and graphic design
 - 🌱 I’m currently learning ... JavaScript and Python while refreshing my HTML/CSS
-- 💞️ I’m looking to collaborate on ... website coding
+- 💞️ I’m looking to collaborate on ... website and app coding
 - 📫 How to reach me ... jasminectgraphics@gmail.com
 
 <!---
