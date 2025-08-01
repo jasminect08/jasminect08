@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jasmine
-- 👀 I’m interested in ... K-Dramas, hiking and graphic design
-- 🌱 I’m currently learning ... JavaScript and Python while refreshing my HTML/CSS
-- 💞️ I’m looking to collaborate on ... website and app coding
-- 📫 How to reach me ... jasminectgraphics@gmail.com
+- 👀 I’m interested in ... K-Dramas, hiking and donuts
+- 🌱 I’m currently transitioning out of a career in Graphic Design
+- 💞 I'm am Google IT Support certified and testing for CompTia Security+
+- 📫 How to reach me ... jchanel08@gmail.com
 
 <!---
 jasminect08/jasminect08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
